@@ -1,0 +1,8 @@
+{
+  "name": "RejectLess",
+  "description": "AI-Assisted Recyclable Waste Readiness, Recipient Matching and Handover Tracking Platform for HackStorm 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
